@@ -1,3 +1,9 @@
+# MacOS Files
+.DS_Store
+
+# MacOS create this in external storage
+._*
+
 # Visual Studio 2015 user specific files
 .vs/
 
